@@ -1,0 +1,2 @@
+# react_prac_infinite_scroll
+SVGをドラッグして無限スクロール
